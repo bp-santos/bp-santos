@@ -4,8 +4,7 @@
 </p>
 
 [![Linkedin: bernardops22](https://img.shields.io/badge/-bernardops22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardops22/)](https://www.linkedin.com/in/bernardops22/)
-[![GitHub Bernardo](https://img.shields.io/github/followers/bp-santos?label=follow&style=social)](https://github.com/bp-santos)
-![Profile Views](https://komarev.com/ghpvc/?username=bp-santos)
+[![GitHub: bp-santos](https://img.shields.io/github/followers/bp-santos?label=follow&style=social)](https://github.com/bp-santos)
 
 
 
