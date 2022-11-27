@@ -13,6 +13,5 @@
 ```java
 public about() {
   String[] code = {"Java", "Scala", "HTML", "CSS", "Django", "Python", "C", "C#"};
-  String challenge = "I am doing the #100DaysOfCode challenge focused on python
 }
 ```
