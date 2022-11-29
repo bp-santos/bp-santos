@@ -1,4 +1,4 @@
-<h2> Olá!, I'm Bernardo Santos! <img src="https://im2.ezgif.com/tmp/ezgif-2-f247f84c32.gif" width="35"></h2> 
+<h2> Olá!, I'm Bernardo Santos!</h2> 
 <p><em>Computer Science</em> Student at <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico </a></p>
 
 [![Linkedin: bernardops22](https://img.shields.io/badge/-bernardops22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardops22/)](https://www.linkedin.com/in/bernardops22/)
